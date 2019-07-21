@@ -3,7 +3,7 @@ module.exports = {
     title: `Welcome!`,
     author: `Okenwa Kenneth`,
     description: `My little corner on this gigantic cyber space.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://danstilo.netlify.com/`,
     social: {
       twitter: `Anekenonso1`,
     },
