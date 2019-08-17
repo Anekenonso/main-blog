@@ -1,7 +1,8 @@
-import React from "react"
-import { Link } from "gatsby"
+import React from "react";
+import { Link } from "gatsby";
+import Toggle from './Toggle';
 
-import { rhythm, scale } from "../utils/typography"
+import { rhythm, scale } from "../utils/typography";
 
 class Layout extends React.Component {
   render() {

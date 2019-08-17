@@ -62,7 +62,7 @@ const Bio = () => {
         </a>
       </p>
     </div>
-  )
-}
+  );
+};
 
 export default Bio
